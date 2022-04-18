@@ -1,7 +1,7 @@
 # oprogramowanie-do-prezentacji-obrazu-3D-CT-MPR-
 
 <ins>Autorki: </ins>
-- [Aleksandra Sidor @](https://github.com/AleksandraSidor)
+- [Aleksandra Sidor @AleksandraSidor](https://github.com/AleksandraSidor)
 - [Justyna Budzyńska @budzynskaJ](https://github.com/budzynskaJ)
 
 <ins>Opis: </ins>
