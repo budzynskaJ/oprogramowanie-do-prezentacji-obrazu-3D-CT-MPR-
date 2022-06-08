@@ -1,4 +1,4 @@
-# oprogramowanie-do-prezentacji-obrazu-3D-CT-MPR-
+# Oprogramowanie do prezentacji obrazu 3D-CT-MPR
 
 <ins>Autorki: </ins>
 - [Aleksandra Sidor](https://github.com/AleksandraSidor)
